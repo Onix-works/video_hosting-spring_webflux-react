@@ -1,0 +1,13 @@
+.wrapper {
+  margin: 40px;
+  display: flex;
+  flex-direction: column;
+  justify-items: center;
+  align-items: center;
+}
+.root {
+  color: green;
+}
+.videoname {
+  margin: 10px;
+}

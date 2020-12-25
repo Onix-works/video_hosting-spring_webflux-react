@@ -1,0 +1,7 @@
+.wrapper {
+  margin: 40px;
+}
+.pagination {
+  position: absolute;
+  left: 50%;
+}

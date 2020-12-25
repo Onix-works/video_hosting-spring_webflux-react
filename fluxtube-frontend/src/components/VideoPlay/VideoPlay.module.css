@@ -1,0 +1,34 @@
+.player {
+  margin-top: 5px;
+  padding: 5px;
+}
+.content_wrapper {
+  margin-top: 2%;
+  margin-left: 20%;
+  margin-right: 20%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.title_wrapper {
+  align-self: flex-start;
+  display: flex;
+  align-items: center;
+  max-width: 50%;
+  max-height: 10%;
+}
+.desc_wrapper {
+  align-self: flex-start;
+}
+.videoname {
+  font-size: 30px;
+  font-weight: 600;
+}
+.avatar {
+  height: 70px;
+  width: 70px;
+}
+.names {
+  vertical-align: top;
+  margin-left: 10px;
+}

@@ -1,0 +1,9 @@
+.username_wrapper {
+  position: absolute;
+  right: 20px;
+  display: flex;
+  align-content: center;
+}
+.home_title {
+  cursor: pointer;
+}
