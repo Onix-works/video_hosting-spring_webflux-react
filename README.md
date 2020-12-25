@@ -1,6 +1,6 @@
 # FluxTube
 
-<img width="959" alt="12" src="https://user-images.githubusercontent.com/61627180/103140968-9166c100-46fe-11eb-87a6-e408de28755d.PNG">
+<img width="960" alt="12" src="https://user-images.githubusercontent.com/61627180/103140980-ec98b380-46fe-11eb-9e6f-fcc494f9722f.PNG">
 
 ### A video hosting service with following features:
 
