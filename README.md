@@ -4,6 +4,7 @@
 
    - Uploading and watching videos 
    - Non-blocking asynchronous request processing 
+   - Remote DB cluster access
    - JWT token authentication
    - User registration
    - Lax cookies
@@ -39,5 +40,5 @@
   
   ### Deployment
 
-  Accessible at http://localhost:8080/. Also "shop backend" can be executed from proper IDE.
-  Alternatively, "front-ang" can be deployed on node.js server seperately from backend(will require to configure CORS in "shop backend" and remove files from "static" folder).
+  Accessible at http://localhost:8080/. "fluxtube-backend" can be executed from proper IDE.
+  Alternatively, "fluxtube-frontend" can be deployed on node.js server seperately from backend(will require to remove files from "static" folder).
