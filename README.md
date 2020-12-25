@@ -1,6 +1,6 @@
 # FluxTube
 
-<img width="958" alt="scree" src="https://user-images.githubusercontent.com/61627180/103140759-af7ef200-46fb-11eb-815b-aabf4b990d33.PNG">
+<img width="959" alt="12" src="https://user-images.githubusercontent.com/61627180/103140968-9166c100-46fe-11eb-87a6-e408de28755d.PNG">
 
 ### A video hosting service with following features:
 
@@ -44,3 +44,8 @@
 
   Accessible at http://localhost:8080/. "fluxtube-backend" can be executed from proper IDE.
   Alternatively, "fluxtube-frontend" can be deployed on node.js server seperately from backend(will require to remove files from "static" folder).
+  
+  
+<img width="945" alt="13" src="https://user-images.githubusercontent.com/61627180/103140971-962b7500-46fe-11eb-9a41-051665c79d80.PNG">
+
+<img width="958" alt="14" src="https://user-images.githubusercontent.com/61627180/103140972-99266580-46fe-11eb-9de6-6d4e82d825d4.PNG">
