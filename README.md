@@ -34,7 +34,7 @@
    
   ### Secondary tools
 
-  Reactor-test, slf4j, JSX, JJWT, Node.js, XML, Eclipse, VS Code
+  GridFS, Reactor-test, slf4j, JSX, JJWT, Node.js, XML, Eclipse, VS Code
   
   ### Authentication
   
